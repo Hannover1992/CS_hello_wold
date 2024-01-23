@@ -1,0 +1,15 @@
+/home/uczen/Documents/GLB/test_code/bin/Debug/net6.0/HelloWorldProject
+/home/uczen/Documents/GLB/test_code/bin/Debug/net6.0/HelloWorldProject.deps.json
+/home/uczen/Documents/GLB/test_code/bin/Debug/net6.0/HelloWorldProject.runtimeconfig.json
+/home/uczen/Documents/GLB/test_code/bin/Debug/net6.0/HelloWorldProject.dll
+/home/uczen/Documents/GLB/test_code/bin/Debug/net6.0/HelloWorldProject.pdb
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.csproj.AssemblyReference.cache
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.AssemblyInfoInputs.cache
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.AssemblyInfo.cs
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.csproj.CoreCompileInputs.cache
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.dll
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/refint/HelloWorldProject.dll
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.pdb
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/HelloWorldProject.genruntimeconfig.cache
+/home/uczen/Documents/GLB/test_code/obj/Debug/net6.0/ref/HelloWorldProject.dll
